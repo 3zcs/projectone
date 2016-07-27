@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/azcs/Desktop/RemoteApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_9e6d431f28707ff67ad6be20fafc8a6d2af4862b.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_0aff7f11bf489a8b460e8ab14fc2d092e3f738bf.jar" />
+    </item>
+    <item
+        jar="/home/azcs/Desktop/RemoteApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="191945d0934973a59daee198122c328758b267dc">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/instant-run_d3041f0343813ebd31a97a520c6b99bb05feac42.jar" />
+    </item>
+    <item
+        jar="/home/azcs/Desktop/RemoteApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_79a59b1224d873dee590fdd03c74be5af6d7e1fb.jar" />
+    </item>
+    <item
+        jar="/home/azcs/Desktop/RemoteApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_232b765afb900a381116870708ba20ba721d5d58.jar" />
+    </item>
+    <item
+        jar="/home/azcs/Desktop/RemoteApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_05740cc923718ee7bb7492a95bc0bb75f4a2f10f.jar" />
+    </item>
+    <item
+        jar="/home/azcs/Desktop/RemoteApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="44296584904cc2d573222d170af3b09ea8f2cbe6">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_722f4666ed88330a11858e58da015ee9ef06a6fd.jar" />
+    </item>
+    <item
+        jar="/home/azcs/Desktop/RemoteApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/azcs/Desktop/RemoteApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_6666700cc4056e9e89080d2d9ec5c356d910da81.jar" />
+    </item>
+
+</items>
